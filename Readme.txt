@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+퍼블리셔 & 개발자를 꿈꾸는 이재봉의 포트폴리오 사이트입니다.
